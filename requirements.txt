@@ -1,0 +1,4 @@
+### 📄 **requirements.txt**  
+```plaintext
+pygame
+streamlit
